@@ -3,11 +3,12 @@
 
 ## Overview
 
-Gemini Moonshot is a bullet-hell arcade space shooter. Survive for as long as you can, and destroy those enemy ships!
+Gemini Moonshot is a simple arcade space shooter. Survive for as long as you can, and destroy those enemy ships!
 
 ## How To Play
 
-[Play Moonshot Gemini](senitelkj.github.io)
+[Play Moonshot Gemini](https://senitelkj.github.io/)
+
 
 ## Gallery
 
