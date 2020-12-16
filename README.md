@@ -9,6 +9,9 @@ Gemini Moonshot is a simple arcade space shooter. Survive for as long as you can
 
 [Play Moonshot Gemini](https://senitelkj.github.io/)
 
+Controls 
+- Movement: Arrow Keys
+- Fire: [Z]
 
 ## Gallery
 
